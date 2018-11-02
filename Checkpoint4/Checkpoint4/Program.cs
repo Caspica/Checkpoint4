@@ -11,6 +11,7 @@ namespace Checkpoint4
             Console.WriteLine("Copyright Caspian Berggren Norén 2018 :)");
 
             Console.WriteLine("Instant Action");
+            Console.WriteLine("Terminal Termination");
         }
     }
 }
