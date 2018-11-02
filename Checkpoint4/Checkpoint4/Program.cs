@@ -12,6 +12,7 @@ namespace Checkpoint4
 
             Console.WriteLine("Instant Action");
             Console.WriteLine("Terminal Termination");
+            Console.WriteLine("Inferno of Termination");
         }
     }
 }
