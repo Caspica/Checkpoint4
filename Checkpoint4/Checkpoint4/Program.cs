@@ -8,6 +8,7 @@ namespace Checkpoint4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Best movies ever!");
+            Console.WriteLine("Copyright Caspian Berggren Norén 2018 :)");
         }
     }
 }
